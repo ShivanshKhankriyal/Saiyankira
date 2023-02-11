@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Shivansh khankriyal. A fullstack developer from Uttarakhand India.
-- 👀 I’m interested in AI specifically image reconstruction.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on System development, PHP, python, C++, C, Golang, Kotlin, Flutter.
-- 📫 How to reach me Mail-:Shivanshkhankriyal17@gmail.com 
+- 🌱 Working for the better deed.
+- 💞️ Fluent in Front-end (Javascript, Typescript), Backend(SQL,Mongo db, Typescript)
+- 📫 How to reach me-:Shivanshkhankriyal17@gmail.com 
 
 Principle- Work until you don't have to introduce yourself
 
