@@ -2,10 +2,10 @@
 - <h2>A fullstack developer from Uttarakhand, India.</h2>
 - <h3>🌱 Working for the better deed.</h3>
 - <h3>💞️ Fluent in Front-end (Javascript, Typescript), Backend(SQL,Mongo db, Typescript, Node.js,) and much more.</h3>
-- Having a keen interest in web3 and being introduced with digital contracts, solana and mint mining etc.
+- <h3>Having a keen interest in web3 and being introduced with digital contracts, solana and mint mining etc.</h3>
 - 📫 How to reach me-:Shivanshkhankriyal17@gmail.com 
 
-- "When to use iterative development? You should use iterative development only on projects that you want to succeed"
+- Principle - "When to use iterative development? You should use iterative development only on projects that you want to succeed"
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shivansh0810#2451) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivanshkhankriyal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-khankriyal-860537212/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shivanshkhankriyal17) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Shivansh5059) 
