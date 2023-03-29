@@ -1,5 +1,3 @@
- [![An image of @shivansh0810's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivansh0810)](https://holopin.io/@shivansh0810)
-
  <h1 align="center">👋 Hi, I’m Shivansh khankriyal.</h1><br> 
  <h2>A fullstack developer from Uttarakhand, India.</h2>
  <h3>🌱 Working for the better deed.</h3>
@@ -9,6 +7,9 @@
 - 📫 How to reach me-:Shivanshkhankriyal17@gmail.com 
 
 - Principle - "When to use iterative development? You should use iterative development only on projects that you want to succeed"
+
+ [![An image of @shivansh0810's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivansh0810)](https://holopin.io/@shivansh0810)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shivansh0810#2451) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivanshkhankriyal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-khankriyal-860537212/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shivanshkhankriyal17) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Shivansh5059) 
