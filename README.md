@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Shivansh khankriyal. A fullstack developer from Uttarakhand, India.
-- 🌱 Working for the better deed.
-- 💞️ Fluent in Front-end (Javascript, Typescript), Backend(SQL,Mongo db, Typescript, Node.js,) and much more.
+- <h1 align="center">👋 Hi, I’m Shivansh khankriyal.</h1><br> 
+- <h2>A fullstack developer from Uttarakhand, India.</h2>
+- <h3>🌱 Working for the better deed.</h3>
+- <h3>💞️ Fluent in Front-end (Javascript, Typescript), Backend(SQL,Mongo db, Typescript, Node.js,) and much more.</h3>
 - Having a keen interest in web3 and being introduced with digital contracts, solana and mint mining etc.
 - 📫 How to reach me-:Shivanshkhankriyal17@gmail.com 
 
