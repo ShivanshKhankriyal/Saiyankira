@@ -3,6 +3,7 @@
  <h3>🌱 Working for the better deed.</h3>
  <h3>💞️ Fluent in Front-end (Javascript, Typescript), Backend(SQL,Mongo db, Typescript, Node.js,) and much more.</h3>
  <h3>Having a keen interest in web3 and being introduced with digital contracts, solana and mint mining etc.</h3>
+ 
 - 📫 How to reach me-:Shivanshkhankriyal17@gmail.com 
 
 - Principle - "When to use iterative development? You should use iterative development only on projects that you want to succeed"
