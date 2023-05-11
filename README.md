@@ -31,7 +31,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ShivanshKhankriyal&icon=0&color=6)](https://visitcount.itsvg.in)
 
-- Fully Active from 01/04/23
+- Fully Active from 
 <!---
 ShivanshKhankriyal/ShivanshKhankriyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
